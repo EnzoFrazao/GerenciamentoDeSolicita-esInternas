@@ -14,8 +14,12 @@ Encerramento: Permite finalizar o sistema manualmente, encerrando todas as opera
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/enzofrazaovencio/"><img src="https://media.licdn.com/dms/image/v2/D4D03AQEE0WZvw-CPgw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1714612030802?e=1730937600&v=beta&t=-R-mNELoKFRmTQzVI-5PLOvsai2_m3vSfEfA6yVpHGk" width="100px;"/><br /><sub><b>Enzo Frazão Vencio</b></sub></a><br />
+      <td align="center" valign="top" width="14.28%">
+        <a href="https://www.linkedin.com/in/enzofrazaovencio/">
+          <img src="https://media.licdn.com/dms/image/v2/D4D03AQEE0WZvw-CPgw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1714612030802?e=1730937600&v=beta&t=-R-mNELoKFRmTQzVI-5PLOvsai2_m3vSfEfA6yVpHGk" width="100px;"/>
+          <br /><sub><b>Enzo Frazão Vencio</b></sub>
+        </a>
+      </td>
     </tr>
   </tbody>
 </table>
-
